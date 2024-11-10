@@ -69,8 +69,11 @@ function App() {
 
 
 [![Смотреть на Youtube](https://img.youtube.com/vi/g71WKMOl7Cs/0.jpg)](https://youtu.be/g71WKMOl7Cs?si=pPLOxAnN9gRTnSrO)
+⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️
 ## Пример миниатюры (превью) видео на youtube 
+```
 [![Смотреть на Youtube](https://img.youtube.com/vi/код_видео/0.jpg)](ссылка_на_видео)
+```
 ### Где у нас код_видео например: 
 ```
 https://www.youtube.com/watch?v=g71WKMOl7Cs 
