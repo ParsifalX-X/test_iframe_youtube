@@ -67,8 +67,9 @@ function App() {
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-
+## Пример миниатюры (превью) видео на youtube 
 [![Смотреть на Youtube](https://img.youtube.com/vi/g71WKMOl7Cs/0.jpg)](https://youtu.be/g71WKMOl7Cs?si=pPLOxAnN9gRTnSrO)
+
 ⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️
 ## Пример миниатюры (превью) видео на youtube 
 ```
