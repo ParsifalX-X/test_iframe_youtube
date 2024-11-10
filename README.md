@@ -68,10 +68,4 @@ function App() {
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g71WKMOl7Cs?si=Q6GbB4Tjntg3wK_2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-<iframe title="$info" width="$width" height="$height"
-  src="https://www.youtube.com/embed/$videoid?{$params}rel=0&wmode=transparent" frameborder="0" allowfullscreen="1"></iframe>
-
   <iframe width="560" height="315" src="https://www.youtube.com/embed/g71WKMOl7Cs?si=usa3MWmZu2P1m7eE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
