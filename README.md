@@ -69,5 +69,10 @@ function App() {
 
 
 [![Смотреть на Youtube](https://img.youtube.com/vi/g71WKMOl7Cs/0.jpg)](https://youtu.be/g71WKMOl7Cs?si=pPLOxAnN9gRTnSrO)
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/g71WKMOl7Cs?si=usa3MWmZu2P1m7eE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Пример миниатюры (превью) видео на youtube 
+[![Смотреть на Youtube](https://img.youtube.com/vi/код_видео/0.jpg)](ссылка_на_видео)
+### Где у нас код_видео например: 
+```
+https://www.youtube.com/watch?v=g71WKMOl7Cs 
+g71WKMOl7Cs - это и есть код на видео
+```
